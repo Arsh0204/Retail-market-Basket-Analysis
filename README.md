@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Market-Basket-Analysis of
 1. Grocery Dataset
 2. Online Retail
@@ -344,3 +345,6 @@ pip install pandas numpy matplotlib mlxtend openpyxl
 
 1. Keep the dataset files in the same folder as the notebooks.
 2. Open the notebooks in Jupyter Notebook or JupyterLab and run all cells.
+=======
+# Market-Basket-Analysis
+>>>>>>> 5d23c47bc881713a6b06214effcc65a1de1937b8
