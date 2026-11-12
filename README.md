@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Market-Basket-Analysis of
+# Retail Market Basket Analysis using Apriori Algorithm of
 1. Grocery Dataset
 2. Online Retail
 
